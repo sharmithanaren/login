@@ -1,0 +1,4 @@
+#Fri Feb 25 01:20:26 IST 2022
+base.0=/Users/sharmithanaren/StudioProjects/sample_login/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
